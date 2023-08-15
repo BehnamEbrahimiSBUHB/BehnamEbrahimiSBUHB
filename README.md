@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning advanced machine learning techniques and diving deeper into data visualization to enhance my analytical skills.
 - 💞️ I’m looking to collaborate on projects that involve predictive modeling, natural language processing, or any intriguing data-driven challenges.
 
+<img src="[relative_path_to_your_image](https://sbuhb.nhs.wales/sites/ABMUhb/images/logo/ABMUhb2.png)" alt="Alt Text" width="300"/>
 
 <!---
 BehnamEbrahimiSBUHB/BehnamEbrahimiSBUHB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
